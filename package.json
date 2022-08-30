@@ -1,6 +1,6 @@
 {
   "name": "@beland/ui-scene-utils",
-  "version": "0.0.1-development",
+  "version": "0.0.2-development",
   "description": "A collection of UI helpers to make it easier to build a Beland scene using the SDK.",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
