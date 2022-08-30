@@ -6,8 +6,8 @@ export let SFFont = new Font(Fonts.SanFrancisco)
 export let SFHeavyFont = new Font(Fonts.SanFrancisco_Heavy)
 
 
-export let lightTheme = new Texture('https://beland.io/wp-content/uploads/2022/06/light-atlas.png')
-export let darkTheme = new Texture('https://beland.io/wp-content/uploads/2022/06/dark-atlas.png')
+export let lightTheme = new Texture('https://decentraland.org/images/ui/light-atlas-v3.png')
+export let darkTheme = new Texture('https://decentraland.org/images/ui/dark-atlas-v3.png')
 
 export const message = new UIText(canvas) //messageBackground
 message.vAlign = 'center'
